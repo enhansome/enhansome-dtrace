@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "description": "Recommended reading for learning DTrace.",
+      "items": [],
+      "title": "Learn"
+    },
+    {
+      "description": "Interesting articles about DTrace and real-world use cases.",
+      "items": [],
+      "title": "Articles"
+    },
+    {
+      "description": "List of software with DTrace support.",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Programming languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlameGraph",
+          "description": "Stack trace visualizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-10-20T21:48:45Z",
+            "owner": "brendangregg",
+            "repo": "FlameGraph",
+            "stars": 19663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-stackvis",
+          "description": "Stack trace visualizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-05T04:48:45Z",
+            "owner": "TritonDataCenter",
+            "repo": "node-stackvis",
+            "stars": 339
+          }
+        }
+      ],
+      "title": "Visualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dtrace-cloud-tools",
+          "description": "DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "D",
+            "last_commit": "2013-11-24T17:36:32Z",
+            "owner": "brendangregg",
+            "repo": "dtrace-cloud-tools",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgsql tools",
+          "description": "Report top-level PostgreSQL stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-08-13T21:24:11Z",
+            "owner": "TritonDataCenter",
+            "repo": "pgsqlstat",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "storage tools",
+          "description": "Report NFS, CIFS and iSCSI stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-08-09T21:53:14Z",
+            "owner": "richardelling",
+            "repo": "tools",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "portsnoop",
+          "description": "Trace event port activity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2014-03-07T00:10:18Z",
+            "owner": "TritonDataCenter",
+            "repo": "portsnoop",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Contributions are more than welcome! Please see contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:27.148Z",
+    "original_repository": "xen0l/awesome-dtrace",
+    "original_repository_sha": "a987734e7ca5ddc247f6711f1e66aeeaca5a9899",
+    "enhanced_repository": "enhansome/enhansome-dtrace",
+    "enhanced_repository_description": null,
+    "title": "Awesome DTrace with stars"
+  }
+}
