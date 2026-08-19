@@ -1,61 +1,50 @@
 {
   "items": [
     {
-      "description": "Recommended reading for learning DTrace.",
-      "items": [],
-      "title": "Learn"
-    },
-    {
-      "description": "Interesting articles about DTrace and real-world use cases.",
-      "items": [],
-      "title": "Articles"
-    },
-    {
       "description": "List of software with DTrace support.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FlameGraph",
+              "description": "Stack trace visualizer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2992074,
+                "language": "Perl",
+                "last_commit": "2024-10-20T21:48:45Z",
+                "owner": "brendangregg",
+                "repo": "FlameGraph",
+                "stars": 19681
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-stackvis",
+              "description": "Stack trace visualizer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3911233,
+                "language": "JavaScript",
+                "last_commit": "2024-07-05T04:48:45Z",
+                "owner": "TritonDataCenter",
+                "repo": "node-stackvis",
+                "stars": 339
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visualization"
+        }
+      ],
       "title": "Software"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Programming languages"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FlameGraph",
-          "description": "Stack trace visualizer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2024-10-20T21:48:45Z",
-            "owner": "brendangregg",
-            "repo": "FlameGraph",
-            "stars": 19678
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-stackvis",
-          "description": "Stack trace visualizer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-05T04:48:45Z",
-            "owner": "TritonDataCenter",
-            "repo": "node-stackvis",
-            "stars": 339
-          }
-        }
-      ],
-      "title": "Visualization"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -64,6 +53,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5405760,
             "language": "D",
             "last_commit": "2013-11-24T17:36:32Z",
             "owner": "brendangregg",
@@ -78,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25264586,
             "language": "Shell",
             "last_commit": "2015-08-13T21:24:11Z",
             "owner": "TritonDataCenter",
@@ -92,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1936192,
             "language": "Shell",
             "last_commit": "2020-08-09T21:53:14Z",
             "owner": "richardelling",
@@ -106,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5292061,
             "language": "Perl",
             "last_commit": "2014-03-07T00:10:18Z",
             "owner": "TritonDataCenter",
@@ -115,16 +108,12 @@
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "Contributions are more than welcome! Please see contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:50:02.910Z",
+    "last_updated": "2026-08-19T12:27:13.433Z",
     "original_repository": "xen0l/awesome-dtrace",
+    "original_repository_id": 60478239,
     "original_repository_sha": "a987734e7ca5ddc247f6711f1e66aeeaca5a9899",
     "enhanced_repository": "enhansome/enhansome-dtrace",
     "enhanced_repository_description": null,
