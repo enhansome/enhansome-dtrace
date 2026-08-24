@@ -6,6 +6,145 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lua-usdt",
+                  "description": "Libusdt bindings for Lua.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3842781,
+                    "language": "C",
+                    "last_commit": "2013-10-06T10:01:34Z",
+                    "owner": "chrisa",
+                    "repo": "lua-usdt",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Lua"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "node-dtrace-provider",
+                  "description": "Native DTrace probes for Node.js apps.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1299949,
+                    "language": "JavaScript",
+                    "last_commit": "2021-06-09T11:04:52Z",
+                    "owner": "chrisa",
+                    "repo": "node-dtrace-provider",
+                    "stars": 323
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Node.js"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "perl-Devel-DTrace-Provider",
+                  "description": "Perl wrapper for libusdt.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5458274,
+                    "language": "C",
+                    "last_commit": "2012-12-24T21:41:16Z",
+                    "owner": "chrisa",
+                    "repo": "perl-Devel-DTrace-Provider",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Perl"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "python-usdt",
+                  "description": "Libusdt bindings for Python.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20112425,
+                    "language": "Python",
+                    "last_commit": "2016-12-29T15:28:42Z",
+                    "owner": "nshalman",
+                    "repo": "python-usdt",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ruby-usdt",
+                  "description": "Native DTrace probes for ruby apps.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4013351,
+                    "language": "C",
+                    "last_commit": "2014-05-15T14:10:41Z",
+                    "owner": "thekvn",
+                    "repo": "ruby-usdt",
+                    "stars": 26
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Ruby"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Programming languages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mod_usdt",
+              "description": "\"httpd\" DTrace provider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2382009,
+                "language": "D",
+                "last_commit": "2014-07-15T16:29:29Z",
+                "owner": "TritonDataCenter",
+                "repo": "mod_usdt",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Webservers"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "FlameGraph",
               "description": "Stack trace visualizer.",
@@ -17,7 +156,7 @@
                 "last_commit": "2024-10-20T21:48:45Z",
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19685
+                "stars": 19688
               }
             },
             {
@@ -111,7 +250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:41:16.181Z",
+    "last_updated": "2026-08-24T14:34:14.470Z",
     "original_repository": "xen0l/awesome-dtrace",
     "original_repository_id": 60478239,
     "original_repository_sha": "a987734e7ca5ddc247f6711f1e66aeeaca5a9899",

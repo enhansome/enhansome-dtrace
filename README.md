@@ -152,13 +152,13 @@ List of software with DTrace support.
 
 #### Python
 
-* [Python](https://www.jcea.es/artic/python_dtrace.htm) - DTrace patch for Python 2.7.x and 3.x.
 * [python-usdt](https://github.com/nshalman/python-usdt) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2016-12-29 - Libusdt bindings for Python.
+* [Python](https://www.jcea.es/artic/python_dtrace.htm) - DTrace patch for Python 2.7.x and 3.x.
 
 #### Ruby
 
-* [Ruby](http://ruby-doc.org/core-2.3.1/doc/dtrace_probes_rdoc.html) - Ruby DTrace probes.
 * [ruby-usdt](https://github.com/kevinykchan/ruby-usdt) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2014-05-15 - Native DTrace probes for ruby apps.
+* [Ruby](http://ruby-doc.org/core-2.3.1/doc/dtrace_probes_rdoc.html) - Ruby DTrace probes.
 
 ### Databases
 
@@ -171,7 +171,7 @@ List of software with DTrace support.
 
 ### Visualization
 
-* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,685 | 🐛 174 | 🌐 Perl | 📅 2024-10-20 - Stack trace visualizer.
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,688 | 🐛 174 | 🌐 Perl | 📅 2024-10-20 - Stack trace visualizer.
 * [node-stackvis](https://github.com/joyent/node-stackvis) ⭐ 339 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 - Stack trace visualizer.
 
 ## Tools
@@ -195,4 +195,4 @@ Contributions are more than welcome! Please see [contribution guidelines](https:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
