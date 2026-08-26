@@ -156,7 +156,7 @@
                 "last_commit": "2024-10-20T21:48:45Z",
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19689
+                "stars": 19694
               }
             },
             {
@@ -250,7 +250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:03:45.055Z",
+    "last_updated": "2026-08-26T16:35:16.437Z",
     "original_repository": "xen0l/awesome-dtrace",
     "original_repository_id": 60478239,
     "original_repository_sha": "a987734e7ca5ddc247f6711f1e66aeeaca5a9899",
