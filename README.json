@@ -156,7 +156,7 @@
                 "last_commit": "2024-10-20T21:48:45Z",
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19694
+                "stars": 19699
               }
             },
             {
@@ -250,9 +250,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:16.437Z",
-    "original_repository": "xen0l/awesome-dtrace",
-    "original_repository_id": 60478239,
+    "last_updated": "2026-08-27T11:37:08.607Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 60478239,
+      "language": "Makefile",
+      "last_commit": "2017-07-21T07:05:32Z",
+      "owner": "xen0l",
+      "repo": "awesome-dtrace",
+      "stars": 163
+    },
     "original_repository_sha": "a987734e7ca5ddc247f6711f1e66aeeaca5a9899",
     "enhanced_repository": "enhansome/enhansome-dtrace",
     "enhanced_repository_description": null,
