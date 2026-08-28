@@ -156,7 +156,7 @@
                 "last_commit": "2024-10-20T21:48:45Z",
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19699
+                "stars": 19702
               }
             },
             {
@@ -197,7 +197,7 @@
             "last_commit": "2013-11-24T17:36:32Z",
             "owner": "brendangregg",
             "repo": "dtrace-cloud-tools",
-            "stars": 204
+            "stars": 205
           }
         },
         {
@@ -250,7 +250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:08.607Z",
+    "last_updated": "2026-08-28T00:26:40.045Z",
     "original_repository_info": {
       "archived": false,
       "id": 60478239,
