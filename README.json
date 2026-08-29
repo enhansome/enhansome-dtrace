@@ -20,7 +20,8 @@
                     "owner": "chrisa",
                     "repo": "lua-usdt",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:04.478Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "chrisa",
                     "repo": "node-dtrace-provider",
                     "stars": 323
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:04.478Z"
                 }
               ],
               "description": null,
@@ -64,7 +66,8 @@
                     "owner": "chrisa",
                     "repo": "perl-Devel-DTrace-Provider",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:04.478Z"
                 }
               ],
               "description": null,
@@ -86,7 +89,8 @@
                     "owner": "nshalman",
                     "repo": "python-usdt",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:04.478Z"
                 }
               ],
               "description": null,
@@ -108,7 +112,8 @@
                     "owner": "thekvn",
                     "repo": "ruby-usdt",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:04.478Z"
                 }
               ],
               "description": null,
@@ -135,7 +140,8 @@
                 "owner": "TritonDataCenter",
                 "repo": "mod_usdt",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:02:04.478Z"
             }
           ],
           "description": null,
@@ -156,8 +162,9 @@
                 "last_commit": "2024-10-20T21:48:45Z",
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19702
-              }
+                "stars": 19705
+              },
+              "first_seen": "2026-08-29T00:02:04.478Z"
             },
             {
               "node_type": "item",
@@ -172,7 +179,8 @@
                 "owner": "TritonDataCenter",
                 "repo": "node-stackvis",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-29T00:02:04.478Z"
             }
           ],
           "description": null,
@@ -198,7 +206,8 @@
             "owner": "brendangregg",
             "repo": "dtrace-cloud-tools",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-29T00:02:04.478Z"
         },
         {
           "node_type": "item",
@@ -213,7 +222,8 @@
             "owner": "TritonDataCenter",
             "repo": "pgsqlstat",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-29T00:02:04.478Z"
         },
         {
           "node_type": "item",
@@ -228,7 +238,8 @@
             "owner": "richardelling",
             "repo": "tools",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:02:04.478Z"
         },
         {
           "node_type": "item",
@@ -243,14 +254,15 @@
             "owner": "TritonDataCenter",
             "repo": "portsnoop",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:02:04.478Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:26:40.045Z",
+    "last_updated": "2026-08-29T00:02:04.478Z",
     "original_repository_info": {
       "archived": false,
       "id": 60478239,
