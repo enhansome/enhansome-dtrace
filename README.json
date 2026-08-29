@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "libusdt bindings for Lua",
+                    "homepage": null,
                     "id": 3842781,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2013-10-06T10:01:34Z",
+                    "open_issues": 0,
                     "owner": "chrisa",
                     "repo": "lua-usdt",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:04.478Z"
                 }
@@ -37,12 +42,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native DTrace probes for node.js apps",
+                    "homepage": null,
                     "id": 1299949,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-06-09T11:04:52Z",
+                    "open_issues": 25,
                     "owner": "chrisa",
                     "repo": "node-dtrace-provider",
-                    "stars": 323
+                    "stars": 323,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:04.478Z"
                 }
@@ -60,12 +70,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Devel::DTrace::Provider - Perl wrapper for libusdt",
+                    "homepage": null,
                     "id": 5458274,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2012-12-24T21:41:16Z",
+                    "open_issues": 1,
                     "owner": "chrisa",
                     "repo": "perl-Devel-DTrace-Provider",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:04.478Z"
                 }
@@ -83,12 +98,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python libusdt bindings",
+                    "homepage": null,
                     "id": 20112425,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-12-29T15:28:42Z",
+                    "open_issues": 3,
                     "owner": "nshalman",
                     "repo": "python-usdt",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:04.478Z"
                 }
@@ -106,12 +126,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native DTrace probes for ruby apps",
+                    "homepage": null,
                     "id": 4013351,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2014-05-15T14:10:41Z",
+                    "open_issues": 1,
                     "owner": "thekvn",
                     "repo": "ruby-usdt",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:04.478Z"
                 }
@@ -134,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DTrace provider for Apache",
+                "homepage": null,
                 "id": 2382009,
                 "language": "D",
+                "license": "MIT",
                 "last_commit": "2014-07-15T16:29:29Z",
+                "open_issues": 1,
                 "owner": "TritonDataCenter",
                 "repo": "mod_usdt",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:04.478Z"
             }
@@ -157,12 +187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stack trace visualizer",
+                "homepage": "http://www.brendangregg.com/flamegraphs.html",
                 "id": 2992074,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2024-10-20T21:48:45Z",
+                "open_issues": 174,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19705
+                "stars": 19705,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:04.478Z"
             },
@@ -173,12 +208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stacktrace visualization tools",
+                "homepage": null,
                 "id": 3911233,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-05T04:48:45Z",
+                "open_issues": 10,
                 "owner": "TritonDataCenter",
                 "repo": "node-stackvis",
-                "stars": 339
+                "stars": 339,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:04.478Z"
             }
@@ -200,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based)",
+            "homepage": null,
             "id": 5405760,
             "language": "D",
+            "license": null,
             "last_commit": "2013-11-24T17:36:32Z",
+            "open_issues": 1,
             "owner": "brendangregg",
             "repo": "dtrace-cloud-tools",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.478Z"
         },
@@ -216,12 +261,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "report top-level postgres stats",
+            "homepage": null,
             "id": 25264586,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2015-08-13T21:24:11Z",
+            "open_issues": 1,
             "owner": "TritonDataCenter",
             "repo": "pgsqlstat",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.478Z"
         },
@@ -232,12 +282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tools for storage servers",
+            "homepage": "http://www.richardelling.com",
             "id": 1936192,
             "language": "Shell",
+            "license": null,
             "last_commit": "2020-08-09T21:53:14Z",
+            "open_issues": 3,
             "owner": "richardelling",
             "repo": "tools",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.478Z"
         },
@@ -248,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "trace event port activity",
+            "homepage": null,
             "id": 5292061,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2014-03-07T00:10:18Z",
+            "open_issues": 0,
             "owner": "TritonDataCenter",
             "repo": "portsnoop",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:04.478Z"
         }
@@ -262,15 +322,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:02:04.478Z",
+    "last_updated": "2026-08-29T04:59:46.909Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome DTrace books, articles, videos, tools and resources.",
+      "homepage": "https://awesome-dtrace.com",
       "id": 60478239,
       "language": "Makefile",
+      "license": "CC-BY-4.0",
       "last_commit": "2017-07-21T07:05:32Z",
+      "open_issues": 0,
       "owner": "xen0l",
       "repo": "awesome-dtrace",
-      "stars": 163
+      "stars": 163,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dtrace",
+        "list"
+      ]
     },
     "original_repository_sha": "a987734e7ca5ddc247f6711f1e66aeeaca5a9899",
     "enhanced_repository": "enhansome/enhansome-dtrace",
