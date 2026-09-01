@@ -171,7 +171,7 @@ List of software with DTrace support.
 
 ### Visualization
 
-* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,713 | 🐛 174 | 🌐 Perl | 📅 2024-10-20 - Stack trace visualizer.
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,716 | 🐛 174 | 🌐 Perl | 📅 2024-10-20 - Stack trace visualizer.
 * [node-stackvis](https://github.com/joyent/node-stackvis) ⭐ 339 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 - Stack trace visualizer.
 
 ## Tools
@@ -195,4 +195,4 @@ Contributions are more than welcome! Please see [contribution guidelines](https:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
