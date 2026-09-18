@@ -196,7 +196,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19758,
+                "stars": 19760,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:04.478Z"
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:05:18.604Z",
+    "last_updated": "2026-09-18T18:32:58.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DTrace books, articles, videos, tools and resources.",
@@ -334,7 +334,7 @@
       "open_issues": 0,
       "owner": "xen0l",
       "repo": "awesome-dtrace",
-      "stars": 163,
+      "stars": 164,
       "topics": [
         "awesome",
         "awesome-list",
