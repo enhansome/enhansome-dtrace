@@ -51,7 +51,7 @@
                     "open_issues": 25,
                     "owner": "chrisa",
                     "repo": "node-dtrace-provider",
-                    "stars": 323,
+                    "stars": 322,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:04.478Z"
@@ -196,7 +196,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19787,
+                "stars": 19790,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:04.478Z"
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:39:52.630Z",
+    "last_updated": "2026-10-08T20:43:01.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DTrace books, articles, videos, tools and resources.",
