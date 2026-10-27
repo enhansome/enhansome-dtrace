@@ -171,13 +171,13 @@ List of software with DTrace support.
 
 ### Visualization
 
-* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,809 | 🐛 173 | 🌐 Perl | 📅 2024-10-20 - Stack trace visualizer.
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) ⭐ 19,808 | 🐛 173 | 🌐 Perl | 📅 2024-10-20 - Stack trace visualizer.
 * [node-stackvis](https://github.com/joyent/node-stackvis) ⭐ 337 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 - Stack trace visualizer.
 
 ## Tools
 
 * [dtrace-cloud-tools](https://github.com/brendangregg/dtrace-cloud-tools) ⭐ 204 | 🐛 1 | 🌐 D | 📅 2013-11-24 - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
-* [pgsql tools](https://github.com/joyent/pgsqlstat) ⭐ 128 | 🐛 1 | 🌐 Shell | 📅 2015-08-13 - Report top-level PostgreSQL stats.
+* [pgsql tools](https://github.com/joyent/pgsqlstat) ⭐ 127 | 🐛 1 | 🌐 Shell | 📅 2015-08-13 - Report top-level PostgreSQL stats.
 * [storage tools](https://github.com/richardelling/tools) ⭐ 33 | 🐛 3 | 🌐 Shell | 📅 2020-08-09 - Report NFS, CIFS and iSCSI stats.
 * [portsnoop](https://github.com/davepacheco/portsnoop) ⭐ 3 | 🐛 0 | 🌐 Perl | 📅 2014-03-07 - Trace event port activity.
 * [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
@@ -195,4 +195,4 @@ Contributions are more than welcome! Please see [contribution guidelines](https:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
