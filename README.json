@@ -196,7 +196,7 @@
                 "open_issues": 173,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
-                "stars": 19817,
+                "stars": 19815,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:04.478Z"
@@ -217,7 +217,7 @@
                 "open_issues": 10,
                 "owner": "TritonDataCenter",
                 "repo": "node-stackvis",
-                "stars": 337,
+                "stars": 336,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:04.478Z"
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:05:05.249Z",
+    "last_updated": "2026-11-04T21:21:30.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DTrace books, articles, videos, tools and resources.",
