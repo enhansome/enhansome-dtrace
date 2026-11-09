@@ -193,7 +193,7 @@
                 "language": "Perl",
                 "license": null,
                 "last_commit": "2024-10-20T21:48:45Z",
-                "open_issues": 173,
+                "open_issues": 174,
                 "owner": "brendangregg",
                 "repo": "FlameGraph",
                 "stars": 19821,
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:45:06.995Z",
+    "last_updated": "2026-11-09T23:47:55.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DTrace books, articles, videos, tools and resources.",
